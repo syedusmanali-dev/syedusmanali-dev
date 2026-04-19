@@ -42,6 +42,20 @@
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" />
 
+<!-- 🤖 AI Automation Tools -->
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20Agents-1E1E1E?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG%20Systems-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Vector%20Databases-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-2D2D2D?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Workflows-00C7B7?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation%20Agents-FF4081?style=flat-square" />
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/Make.com-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/N8N-1F6FEB?style=flat-square" />
+
 <!-- Web -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
