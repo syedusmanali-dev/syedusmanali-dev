@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Usman Ali</h1>
-<h3 align="center">🤖 AI/ML Enthusiast | 🧠 Computer Vision Developer | 💻 Full-Stack Engineer</h3>
+<h3 align="center">🤖 Artificial Intelligence Engineer | 🧠Machine Learning | Deep Learning & Computer Vision Developer | 💻 Full-Stack Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=650&lines=AI%2FML+Enthusiast+%7C+Computer+Vision+Developer;Full-Stack+Engineer+%7C+Problem+Solver;Building+Industry-Level+AI+Systems;From+Models+to+Production+Deployment;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 <ul>
-  <li>🤖 I’m a Computer Science undergraduate passionate about Artificial Intelligence, Machine Learning, and Computer Vision systems.</li>
+  <li>🤖 I’m a Computer Science Graduate passionate about Artificial Intelligence, Machine Learning, and Computer Vision systems.</li>
   <li>💡 I focus on building real-world, industry-level AI solutions that go beyond models and into full production systems.</li>
   <li>🧠 Interested in end-to-end AI development including model training, API development, and deployment pipelines.</li>
   <li>💻 Strong interest in full-stack development combined with AI integration for intelligent applications.</li>
@@ -70,7 +70,7 @@
 
 ### 🧠 Focus Areas
 
-- 🤖 Computer Vision & Deep Learning  
+- 🤖 Machine Learning, Deep Learning & Computer Vision
 - 🧠 AI Model Development & Optimization  
 - ⚙️ End-to-End AI Systems (Model → API → Deployment)  
 - 🌐 Full-Stack AI Integration  
@@ -80,6 +80,11 @@
 
 ### ⚡ Goal
 
-To become a professional AI Engineer building production-ready intelligent systems that solve real-world problems at scale.
-
+- 🎯 Become an Professional AI Engineer building production-ready, scalable AI systems
+- 🧠 Master AI, ML, and Deep Learning for real-world problem solving
+- 💻 Strengthen software engineering for efficient and optimized solutions
+- 🏢 Work in top AI-driven companies like Google, Microsoft, Amazon, Meta, IBM, NVIDIA, OpenAI
+- ⚙️ Apply industry best practices and modern AI technologies
+- 📈 Improve problem-solving and system design skills continuously
+- 🚀 Build impactful, real-world AI solutions at scale
 ---
