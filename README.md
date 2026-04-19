@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Syed Usman Ali</h1>
 <h3 align="center">🤖 Artificial Intelligence Engineer |🧠 Machine Learning |⚙️ Deep Learning & Computer Vision Developer | 💻 Full-Stack Engineer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Computer+Science+Student+%7C+AI%2FML+Engineer+in+Progress;Computer+Vision+%26+Deep+Learning+Developer;Building+End-to-End+AI+Systems+for+Real-World+Use;Full-Stack+Developer+with+AI+Integration+Expertise;Focused+on+Scalable+%26+Production-Ready+AI+Solutions" alt="Typing SVG" />
+<<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=AI%2FML+Engineer+%7C+Computer+Vision+Developer;Building+Intelligent+Real-World+AI+Systems;Machine+Learning+%26+Deep+Learning+Practitioner;Full-Stack+Developer+with+AI+Integration+Expertise;Focused+on+Scalable%2C+Production-Ready+AI+Solutions" alt="Typing SVG" />
 </p>
 
 ---
