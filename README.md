@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
 <!-- AI / ML / Data Science -->
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -42,7 +43,7 @@
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" />
 
-<!-- Web -->
+<!-- Web Development -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
@@ -64,7 +65,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
-<!-- IDEs / Platforms -->
+<!-- IDEs / Development Tools -->
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
@@ -72,6 +73,7 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" />
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=apache&logoColor=white" />
 
 <!-- AI Tools -->
 <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=white" />
@@ -79,9 +81,10 @@
 <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Trae.ai-6C63FF?style=flat-square" />
 
-<!-- Productivity -->
+<!-- Productivity Tools -->
 <img src="https://img.shields.io/badge/MS%20Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" />
 <img src="https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
 
 </div>
 
