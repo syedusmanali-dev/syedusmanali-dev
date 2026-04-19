@@ -2,7 +2,7 @@
 <h3 align="center">🤖 Artificial Intelligence Engineer | 🧠 Machine Learning | ⚙️ Deep Learning, Computer Vision & Agentic AI Developer | 💻 Full-Stack Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=750&lines=AI%2FML+Engineer+%7C+Agentic+AI+Developer;Building+Intelligent+Autonomous+AI+Systems;Machine+Learning+%26+Deep+Learning+Practitioner;Computer+Vision+%26+AI+Automation+Engineer;Full-Stack+Developer+with+AI+Integration+Expertise;Focused+on+Scalable%2C+Production-Ready+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=750&lines=AI%2FML+Engineer+%7C+Software+Developer;Building+Intelligent+Autonomous+AI+Systems;Machine+Learning+%26+Deep+Learning+Practitioner;Computer+Vision+%26+AI+Automation+Engineer;Full-Stack+Developer+with+AI+Integration+Expertise;Focused+on+Scalable%2C+Production-Ready+AI+Solutions" alt="Typing SVG" />
 </p>
 
 ---
